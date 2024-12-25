@@ -1,0 +1,19 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "Project whose purpose is the learning of type script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javieriranzo/typescript-learning.git"
+  },
+  "author": "Fco. Javier Iranzo Rebenaque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javieriranzo/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/javieriranzo/typescript-learning#readme"
+}
