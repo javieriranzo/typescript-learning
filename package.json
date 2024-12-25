@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/javieriranzo/typescript-learning/issues"
   },
-  "homepage": "https://github.com/javieriranzo/typescript-learning#readme"
+  "homepage": "https://github.com/javieriranzo/typescript-learning#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
