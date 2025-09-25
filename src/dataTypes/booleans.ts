@@ -1,4 +1,4 @@
-let knowJavascript: boolean = true; 
+let knowJavascript: boolean = false; 
 
 if (knowJavascript) {
     console.log("You can continue watching this course")

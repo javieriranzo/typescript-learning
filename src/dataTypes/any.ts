@@ -1,0 +1,13 @@
+let disney: any; 
+
+console.log("Variable Disney will be of type string");
+disney = "Hola soy disney"; 
+console.log(disney);
+
+console.log("Variable Disney will be of type number");
+disney = 25; 
+console.log(disney);
+
+console.log("Variable Disney will be of type boolean");
+disney = true; 
+console.log(disney);
